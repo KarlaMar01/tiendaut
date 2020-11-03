@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px
+}
+
+#main-container {
+    width: 100%;
+    margin: 0px auto;
+}
+
+#header {
+    width: 100%;
+    background-color: rgb(72, 150, 194);
+    padding: 10px;
+    color: white;
+}
+
+h1 {
+    color: black;
+    font-family: "Roboto", "sans-serif";
+    font-weight: lighter;
+}
